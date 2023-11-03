@@ -36,5 +36,5 @@
 
 ## Help
 
-* [🗃 BIOS Files](help/bios-files.md)
 * [🆘 FAQ](help/faq.md)
+* [🗃 BIOS Files](help/bios-files.md)
