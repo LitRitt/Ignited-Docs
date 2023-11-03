@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🔥 Ignited User Guide](README.md)
-* [📔 Release Notes](release-notes.md)
+  * [📔 Release Notes](ignited-user-guide/release-notes.md)
 
 ## Getting Started
 

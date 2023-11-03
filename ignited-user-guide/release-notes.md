@@ -1,10 +1,10 @@
 ---
-description: The entire history of Ignited's development.
+description: The history of Ignited's development.
 ---
 
 # 📔 Release Notes
 
-### 1.6.1 - 10/31/2023 <a href="#161---10312023" id="161---10312023"></a>
+## 1.6.1 - 10/31/2023 <a href="#161---10312023" id="161---10312023"></a>
 
 #### **New Features** <a href="#new-features" id="new-features"></a>
 
@@ -15,7 +15,7 @@ description: The entire history of Ignited's development.
 * Adds a Power User feature to copy the Google Drive refresh token
   * Allows other applications and services to access your Google Drive Ignited Sync backup files
 
-### 1.6 - 10/30/2023 <a href="#16---10302023" id="16---10302023"></a>
+## 1.6 - 10/30/2023 <a href="#16---10302023" id="16---10302023"></a>
 
 #### **New Features** <a href="#new-features-1" id="new-features-1"></a>
 
@@ -23,7 +23,7 @@ description: The entire history of Ignited's development.
 * Adds a setting to show unsupported controller skins
 * Adds an All Systems page to settings for controller skin management
 
-### 1.5.6 - 10/28/2023 <a href="#156---10282023" id="156---10282023"></a>
+## 1.5.6 - 10/28/2023 <a href="#156---10282023" id="156---10282023"></a>
 
 #### **New Features** <a href="#new-features-2" id="new-features-2"></a>
 
@@ -38,7 +38,7 @@ description: The entire history of Ignited's development.
   * The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen
 * Moves Core Settings below Features in the settings page
 
-### 1.5.5 - 10/27/2023 <a href="#155---10272023" id="155---10272023"></a>
+## 1.5.5 - 10/27/2023 <a href="#155---10272023" id="155---10272023"></a>
 
 #### **Updates** <a href="#updates-1" id="updates-1"></a>
 
@@ -50,7 +50,7 @@ description: The entire history of Ignited's development.
 * Fixes a bug with AirPlay not showing the correct DS screens on the external display
 * Fixes games losing audio after switching systems
 
-### 1.5.4 - 10/23/2023 <a href="#154---10232023" id="154---10232023"></a>
+## 1.5.4 - 10/23/2023 <a href="#154---10232023" id="154---10232023"></a>
 
 #### **Bugfixes** <a href="#bugfixes-1" id="bugfixes-1"></a>
 
@@ -58,7 +58,7 @@ description: The entire history of Ignited's development.
 * Fixes a crash when selecting hold buttons
 * Fixes a crash when displaying toasts
 
-### 1.5.3 - 8/20/2023 <a href="#153---8202023" id="153---8202023"></a>
+## 1.5.3 - 8/20/2023 <a href="#153---8202023" id="153---8202023"></a>
 
 #### **New Features** <a href="#new-features-3" id="new-features-3"></a>
 
@@ -70,7 +70,7 @@ description: The entire history of Ignited's development.
 * Updated DS default skin to new style
 * Updated SNES default skin to new style###
 
-### 1.5.2 - 7/19/2023 <a href="#152---7192023" id="152---7192023"></a>
+## 1.5.2 - 7/19/2023 <a href="#152---7192023" id="152---7192023"></a>
 
 #### **Updates** <a href="#updates-3" id="updates-3"></a>
 
@@ -83,7 +83,7 @@ description: The entire history of Ignited's development.
 * Fixes deep links not loading auto save states in some scenarios
 * Fixes wrong description for controller deadzone option
 
-### 1.5.1 - 7/16/2023 <a href="#151---7162023" id="151---7162023"></a>
+## 1.5.1 - 7/16/2023 <a href="#151---7162023" id="151---7162023"></a>
 
 #### **Updates** <a href="#updates-4" id="updates-4"></a>
 
@@ -95,7 +95,7 @@ description: The entire history of Ignited's development.
 
 * Fixes launching a game via deep link not respecting the auto load save state setting
 
-### 1.5 - 7/13/2023 <a href="#15---7132023" id="15---7132023"></a>
+## 1.5 - 7/13/2023 <a href="#15---7132023" id="15---7132023"></a>
 
 #### **New Features** <a href="#new-features-4" id="new-features-4"></a>
 
@@ -119,7 +119,7 @@ description: The entire history of Ignited's development.
 * Fixes DS save states made with JIT enabled not loading when JIT is not enabled
 * Fixes crash when loading save states on iOS 17
 
-### 1.4.8 - 6/25/2023 <a href="#148---6252023" id="148---6252023"></a>
+## 1.4.8 - 6/25/2023 <a href="#148---6252023" id="148---6252023"></a>
 
 #### **New Features** <a href="#new-features-5" id="new-features-5"></a>
 
@@ -137,7 +137,7 @@ description: The entire history of Ignited's development.
 
 * Fixes game screenshots being saved to Photos as JPEG instead of PNG
 
-### 1.4.7 - 6/19/2023 <a href="#147---6192023" id="147---6192023"></a>
+## 1.4.7 - 6/19/2023 <a href="#147---6192023" id="147---6192023"></a>
 
 #### **New Features** <a href="#new-features-6" id="new-features-6"></a>
 
@@ -154,7 +154,7 @@ description: The entire history of Ignited's development.
 
 * Fixes an issue with the default GBA E2E landscape skin image
 
-### 1.4.6 - 6/17/2023 <a href="#146---6172023" id="146---6172023"></a>
+## 1.4.6 - 6/17/2023 <a href="#146---6172023" id="146---6172023"></a>
 
 #### **New Features** <a href="#new-features-7" id="new-features-7"></a>
 
@@ -172,7 +172,7 @@ description: The entire history of Ignited's development.
 
 * Fixes N64 screens going black when toggling background blur
 
-### 1.4.5 - 6/16/2023 <a href="#145---6162023" id="145---6162023"></a>
+## 1.4.5 - 6/16/2023 <a href="#145---6162023" id="145---6162023"></a>
 
 #### **New Features** <a href="#new-features-8" id="new-features-8"></a>
 
@@ -190,7 +190,7 @@ description: The entire history of Ignited's development.
 * Fixes overlapping buttons when mapping controller inputs
 * Fixes crashes on N64 when opening menu and saving state
 
-### 1.4.4 - 6/7/2023 <a href="#144---672023" id="144---672023"></a>
+## 1.4.4 - 6/7/2023 <a href="#144---672023" id="144---672023"></a>
 
 #### **New Features** <a href="#new-features-9" id="new-features-9"></a>
 
@@ -208,7 +208,7 @@ description: The entire history of Ignited's development.
 
 * Fixes artwork size setting not applying until swiping to a new page
 
-### 1.4.3 - 6/4/2023 <a href="#143---642023" id="143---642023"></a>
+## 1.4.3 - 6/4/2023 <a href="#143---642023" id="143---642023"></a>
 
 #### **Updates** <a href="#updates-11" id="updates-11"></a>
 
@@ -222,7 +222,7 @@ description: The entire history of Ignited's development.
 * Fixes lag when changing settings with animated artwork in the background
 * Fixes animated artwork losing transparency when downsampling
 
-### 1.4.2 - 6/3/2023 <a href="#142---632023" id="142---632023"></a>
+## 1.4.2 - 6/3/2023 <a href="#142---632023" id="142---632023"></a>
 
 #### **New Features** <a href="#new-features-10" id="new-features-10"></a>
 
@@ -239,7 +239,7 @@ description: The entire history of Ignited's development.
 * Fixes crash on iPad when resolving sync merge conflicts
 * Fixes accidentally deleting Games directory during sync in rare circumstances
 
-### 1.4.1 - 5/14/2023 <a href="#141---5142023" id="141---5142023"></a>
+## 1.4.1 - 5/14/2023 <a href="#141---5142023" id="141---5142023"></a>
 
 #### **New Features** <a href="#new-features-11" id="new-features-11"></a>
 
@@ -252,7 +252,7 @@ description: The entire history of Ignited's development.
 * Fixes incorrect checkmarks next to selected palette for sprite 1 and 2
 * Fixes preview save state being overwritten by auto save state
 
-### 1.4 - 5/13/2023 <a href="#14---5132023" id="14---5132023"></a>
+## 1.4 - 5/13/2023 <a href="#14---5132023" id="14---5132023"></a>
 
 #### **Updates** <a href="#updates-13" id="updates-13"></a>
 
@@ -277,7 +277,7 @@ description: The entire history of Ignited's development.
 
 * Burnt a bunch of bugs
 
-### 1.3.0 - 4/28/2023 <a href="#130---4282023" id="130---4282023"></a>
+## 1.3.0 - 4/28/2023 <a href="#130---4282023" id="130---4282023"></a>
 
 #### **New Features** <a href="#new-features-13" id="new-features-13"></a>
 
@@ -294,7 +294,7 @@ description: The entire history of Ignited's development.
 * Fixes the Resume button not working with auto-load save states disabled
 * Fixes the pause menu not fully showing in landscape with 2 rows of buttons
 
-### 1.2.10 - 4/23/2023 <a href="#1210---4232023" id="1210---4232023"></a>
+## 1.2.10 - 4/23/2023 <a href="#1210---4232023" id="1210---4232023"></a>
 
 #### **New Features** <a href="#new-features-14" id="new-features-14"></a>
 
@@ -312,7 +312,7 @@ description: The entire history of Ignited's development.
 * Adjusted settings slider labels to fit with bold system text
 * Removed unimplemented swipable page control
 
-### 1.2.9 - 4/18/2023 <a href="#129---4182023" id="129---4182023"></a>
+## 1.2.9 - 4/18/2023 <a href="#129---4182023" id="129---4182023"></a>
 
 #### **Updates** <a href="#updates-16" id="updates-16"></a>
 
@@ -324,7 +324,7 @@ description: The entire history of Ignited's development.
 * Fixed a crash when toggling clicky haptics
 * Removed unsupported file extensions on GPGX
 
-### 1.2.8 - 4/16/2023 <a href="#128---4162023" id="128---4162023"></a>
+## 1.2.8 - 4/16/2023 <a href="#128---4162023" id="128---4162023"></a>
 
 #### **New Features** <a href="#new-features-15" id="new-features-15"></a>
 
@@ -336,7 +336,7 @@ description: The entire history of Ignited's development.
 
 * Added remaining file extensions for all systems supported by the Genesis Plus GX core
 
-### 1.2.7 - 4/15/2023 <a href="#127---4152023" id="127---4152023"></a>
+## 1.2.7 - 4/15/2023 <a href="#127---4152023" id="127---4152023"></a>
 
 #### **New Features** <a href="#new-features-16" id="new-features-16"></a>
 
@@ -347,13 +347,13 @@ description: The entire history of Ignited's development.
 * Added confirmation popup to advanced settings
 * Game screenshots are now scaled up by 5x before being saved
 
-### 1.2.6 - 4/14/2023 <a href="#126---4142023" id="126---4142023"></a>
+## 1.2.6 - 4/14/2023 <a href="#126---4142023" id="126---4142023"></a>
 
 #### **New Features** <a href="#new-features-17" id="new-features-17"></a>
 
 * Game Screenshots - save a screenshot of the game screen to your photos with a pause menu item or controller skin button
 
-### 1.2.5 - 4/12/2023 <a href="#125---4122023" id="125---4122023"></a>
+## 1.2.5 - 4/12/2023 <a href="#125---4122023" id="125---4122023"></a>
 
 #### **Bugfixes** <a href="#bugfixes-17" id="bugfixes-17"></a>
 
@@ -363,7 +363,7 @@ description: The entire history of Ignited's development.
 
 * Added advanced setting to clear auto save states from every game
 
-### 1.2.4 - 4/11/2023 <a href="#124---4112023" id="124---4112023"></a>
+## 1.2.4 - 4/11/2023 <a href="#124---4112023" id="124---4112023"></a>
 
 #### **Bugfixes** <a href="#bugfixes-18" id="bugfixes-18"></a>
 
@@ -371,7 +371,7 @@ description: The entire history of Ignited's development.
 * Removed cheats, save, load, and rewind pause menu items from DSi Home Screen
 * Removed cheats from DS Home Screen
 
-### 1.2.3 - 4/10/2023 <a href="#123---4102023" id="123---4102023"></a>
+## 1.2.3 - 4/10/2023 <a href="#123---4102023" id="123---4102023"></a>
 
 #### **New Features** <a href="#new-features-19" id="new-features-19"></a>
 
@@ -381,7 +381,7 @@ description: The entire history of Ignited's development.
 
 * Updates screen now includes dates for all versions
 
-### 1.2.2 - 4/9/2023 <a href="#122---492023" id="122---492023"></a>
+## 1.2.2 - 4/9/2023 <a href="#122---492023" id="122---492023"></a>
 
 #### **New Features** <a href="#new-features-20" id="new-features-20"></a>
 
@@ -392,7 +392,7 @@ description: The entire history of Ignited's development.
 
 * Updated OpenVGDB database
 
-### 1.2.1 - 4/9/2023 <a href="#121---492023" id="121---492023"></a>
+## 1.2.1 - 4/9/2023 <a href="#121---492023" id="121---492023"></a>
 
 #### **New Features** <a href="#new-features-21" id="new-features-21"></a>
 
@@ -406,7 +406,7 @@ description: The entire history of Ignited's development.
 
 * Fixed laggy sliders in settings that could crash the app when paused
 
-### 1.2.0 - 4/8/2023 <a href="#120---482023" id="120---482023"></a>
+## 1.2.0 - 4/8/2023 <a href="#120---482023" id="120---482023"></a>
 
 #### **New Features** <a href="#new-features-22" id="new-features-22"></a>
 
@@ -418,7 +418,7 @@ description: The entire history of Ignited's development.
 
 * Fixed controller skins losing transparency on device rotation
 
-### 1.1.4 - 4/6/2023 <a href="#114---462023" id="114---462023"></a>
+## 1.1.4 - 4/6/2023 <a href="#114---462023" id="114---462023"></a>
 
 #### **New Features** <a href="#new-features-23" id="new-features-23"></a>
 
@@ -433,14 +433,14 @@ description: The entire history of Ignited's development.
 
 * Fixed the Show with Controller settings not working on DS
 
-### 1.1.3 - 4/5/2023 <a href="#113---452023" id="113---452023"></a>
+## 1.1.3 - 4/5/2023 <a href="#113---452023" id="113---452023"></a>
 
 #### **New Features** <a href="#new-features-24" id="new-features-24"></a>
 
 * Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release
 * Added slider for haptic feedback strength
 
-### 1.1.2 - 4/2/2023 <a href="#112---422023" id="112---422023"></a>
+## 1.1.2 - 4/2/2023 <a href="#112---422023" id="112---422023"></a>
 
 #### **WARNING** <a href="#warning" id="warning"></a>
 
@@ -459,13 +459,13 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed last unthemed elements buried in settings
 
-### 1.1.1 - 4/2/2023 <a href="#111---422023" id="111---422023"></a>
+## 1.1.1 - 4/2/2023 <a href="#111---422023" id="111---422023"></a>
 
 #### **Changes** <a href="#changes" id="changes"></a>
 
 * Updated toast notification logic to prevent multiple toasts being shown at once
 
-### 1.1.0 - 4/1/2023 <a href="#110---412023" id="110---412023"></a>
+## 1.1.0 - 4/1/2023 <a href="#110---412023" id="110---412023"></a>
 
 #### **New Features** <a href="#new-features-26" id="new-features-26"></a>
 
@@ -477,7 +477,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Removed the Resume Game prompt from the game selection screen
 * Added a Restart Game pause menu button
 
-### 1.0.2 - 4/1/2023 <a href="#102---412023" id="102---412023"></a>
+## 1.0.2 - 4/1/2023 <a href="#102---412023" id="102---412023"></a>
 
 #### **New Features** <a href="#new-features-27" id="new-features-27"></a>
 
@@ -491,13 +491,13 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed some artwork bugs caused by resizing
 
-### 1.0.1 - 3/30/2023 <a href="#101---3302023" id="101---3302023"></a>
+## 1.0.1 - 3/30/2023 <a href="#101---3302023" id="101---3302023"></a>
 
 #### **Bugfixes** <a href="#bugfixes-24" id="bugfixes-24"></a>
 
 * Fixed link in settings
 
-### 1.0.0 - 3/30/2023 <a href="#100---3302023" id="100---3302023"></a>
+## 1.0.0 - 3/30/2023 <a href="#100---3302023" id="100---3302023"></a>
 
 #### **New Features** <a href="#new-features-28" id="new-features-28"></a>
 
@@ -515,7 +515,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Default speed changed to 4x
 * Removed 4x from unsafe speeds
 
-### 0.7.1 - 3/19/2023 <a href="#071---3192023" id="071---3192023"></a>
+## 0.7.1 - 3/19/2023 <a href="#071---3192023" id="071---3192023"></a>
 
 #### **Changes** <a href="#changes-2" id="changes-2"></a>
 
@@ -524,7 +524,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Reordered save state menu sections. General at the top and Quick/Auto at the bottom
 * Rebrand to from Delta Ignited to just Ignited
 
-### 0.7.0 - 3/18/2023 <a href="#070---3182023" id="070---3182023"></a>
+## 0.7.0 - 3/18/2023 <a href="#070---3182023" id="070---3182023"></a>
 
 #### **New Features** <a href="#new-features-29" id="new-features-29"></a>
 
@@ -542,7 +542,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed a bug where the user preferred DS core was changed to MelonDS every time the app started
 
-### 0.6.3 - 3/11/2023 <a href="#063---3112023" id="063---3112023"></a>
+## 0.6.3 - 3/11/2023 <a href="#063---3112023" id="063---3112023"></a>
 
 #### **New Features** <a href="#new-features-30" id="new-features-30"></a>
 
@@ -555,7 +555,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Game will auto-save on every fast forward activation
 * Number of auto-saves increased from 2 to 4
 
-### 0.6.2 - 3/5/2023 <a href="#062---352023" id="062---352023"></a>
+## 0.6.2 - 3/5/2023 <a href="#062---352023" id="062---352023"></a>
 
 #### **New Features** <a href="#new-features-31" id="new-features-31"></a>
 
@@ -565,45 +565,45 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fix controller skin previews not showing for standard size iPhones
 
-### 0.6.1 - 3/4/2023 <a href="#061---342023" id="061---342023"></a>
+## 0.6.1 - 3/4/2023 <a href="#061---342023" id="061---342023"></a>
 
 #### **Updates** <a href="#updates-28" id="updates-28"></a>
 
 * Change formatting of updates screen
 * Move updates to its own section in settings
 
-### 0.6.0 - 3/3/2023 <a href="#060---332023" id="060---332023"></a>
+## 0.6.0 - 3/3/2023 <a href="#060---332023" id="060---332023"></a>
 
 #### **New Features** <a href="#new-features-32" id="new-features-32"></a>
 
 * Add in-app updates changelog
 
-### 0.5.3 - 3/3/2023 <a href="#053---332023" id="053---332023"></a>
+## 0.5.3 - 3/3/2023 <a href="#053---332023" id="053---332023"></a>
 
 #### **Updates** <a href="#updates-29" id="updates-29"></a>
 
 * Update local multiplayer controller settings logic
 * Remove rewind feature due to crashes
 
-### 0.5.2 - 2/26/2023 <a href="#052---2262023" id="052---2262023"></a>
+## 0.5.2 - 2/26/2023 <a href="#052---2262023" id="052---2262023"></a>
 
 #### **Updates** <a href="#updates-30" id="updates-30"></a>
 
 * Added new GBC skin with matching style and previews
 
-### 0.5.1 - 2/25/2023 <a href="#051---2252023" id="051---2252023"></a>
+## 0.5.1 - 2/25/2023 <a href="#051---2252023" id="051---2252023"></a>
 
 #### **Updates** <a href="#updates-31" id="updates-31"></a>
 
 * Implemented new preview feature in default GBA skin
 
-### 0.5.0 - 2/25/2023 <a href="#050---2252023" id="050---2252023"></a>
+## 0.5.0 - 2/25/2023 <a href="#050---2252023" id="050---2252023"></a>
 
 #### **New Features** <a href="#new-features-33" id="new-features-33"></a>
 
 * Controller skin previews in settings
 
-### 0.4.1 - 2/25/2023 <a href="#041---2252023" id="041---2252023"></a>
+## 0.4.1 - 2/25/2023 <a href="#041---2252023" id="041---2252023"></a>
 
 #### **Updates** <a href="#updates-32" id="updates-32"></a>
 
@@ -611,13 +611,13 @@ This update uses a new bundleID with my domain. It will never change again after
 * Fixed crashes on iPad related to popups
 * Fixed a crash in P2-P4 controller settings pages
 
-### 0.4.0 - 2/24/2023 <a href="#040---2242023" id="040---2242023"></a>
+## 0.4.0 - 2/24/2023 <a href="#040---2242023" id="040---2242023"></a>
 
 #### **New Features** <a href="#new-features-34" id="new-features-34"></a>
 
 * Custom fast forward speed setting and toggle
 
-### 0.3.0 - 2/23/2023 <a href="#030---2232023" id="030---2232023"></a>
+## 0.3.0 - 2/23/2023 <a href="#030---2232023" id="030---2232023"></a>
 
 #### **New Features** <a href="#new-features-35" id="new-features-35"></a>
 
@@ -628,7 +628,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Ensured all settings sections have a descriptive footer
 
-### 0.2.1 - 2/21/2023 <a href="#021---2212023" id="021---2212023"></a>
+## 0.2.1 - 2/21/2023 <a href="#021---2212023" id="021---2212023"></a>
 
 #### **New Features** <a href="#new-features-36" id="new-features-36"></a>
 
@@ -640,7 +640,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Remove all beta checks
 * Contributors page updated
 
-### 0.2.0 - 2/20/2023 <a href="#020---2202023" id="020---2202023"></a>
+## 0.2.0 - 2/20/2023 <a href="#020---2202023" id="020---2202023"></a>
 
 #### **New Features** <a href="#new-features-37" id="new-features-37"></a>
 
@@ -653,7 +653,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Contributors page updated
 * Update links in settings
 
-### 0.1.0 - 2/19/2023 <a href="#010---2192023" id="010---2192023"></a>
+## 0.1.0 - 2/19/2023 <a href="#010---2192023" id="010---2192023"></a>
 
 #### **New Assets** <a href="#new-assets" id="new-assets"></a>
 
