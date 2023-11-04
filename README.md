@@ -2,9 +2,22 @@
 description: >-
   Official website for Ignited - the hottest Nintendo emulator for iPhone and
   iPad.
-cover: broken-reference
+cover: .gitbook/assets/cover
 coverY: 0
-layout: landing
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🔥 Ignited User Guide
