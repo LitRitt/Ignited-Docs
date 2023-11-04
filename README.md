@@ -13,11 +13,11 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 🔥 Ignited User Guide
