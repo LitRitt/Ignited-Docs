@@ -19,7 +19,7 @@ layout:
 
 <figure><img src=".gitbook/assets/cover" alt=""><figcaption></figcaption></figure>
 
-This guide will show you how to install Ignited and use its many features.
+This guide will show you how to install Ignited and use its many features. Start with Getting Started below to install Ignited and start playing games
 
 ## Getting Started
 
@@ -31,14 +31,14 @@ This guide will show you how to install Ignited and use its many features.
 [games.md](getting-started/games.md)
 {% endcontent-ref %}
 
-{% content-ref url="getting-started/settings/" %}
-[settings](getting-started/settings/)
-{% endcontent-ref %}
-
 ## Using Ignited
 
-{% content-ref url="using-ignited/main-menu/" %}
-[main-menu](using-ignited/main-menu/)
+{% content-ref url="using-ignited/games-library/" %}
+[games-library](using-ignited/games-library/)
+{% endcontent-ref %}
+
+{% content-ref url="using-ignited/settings/" %}
+[settings](using-ignited/settings/)
 {% endcontent-ref %}
 
 {% content-ref url="using-ignited/pause-menu/" %}

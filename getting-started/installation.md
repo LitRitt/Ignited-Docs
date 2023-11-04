@@ -4,7 +4,7 @@ description: Install Ignited onto your iPhone or iPad.
 
 # 📲 Installation
 
-This page will show you the supported methods of installing Ignited onto your device. The easiest method by far is over-the-air (OTA) installation, which is offered as a benefit to my Patreon patrons and Discord subscribers. Installation is always a button press away, and the app stays signed while you're a supporter. AltStore is a completely free method, but requires a computer and resigning the app must be done every week to continue using the app.
+The easiest method is over-the-air (OTA) installation, which is offered as a benefit to my [Patreon](https://www.patreon.com/litritt) patrons and [Discord](https://discord.gg/qEtKFJt5dR) subscribers. Installation is always a button press away, and the app stays signed while you're a supporter. AltStore is a completely free method, but requires a computer and resigning the app must be done every week to continue using the app.
 
 ## OTA Method
 
