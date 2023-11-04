@@ -2,7 +2,7 @@
 description: >-
   Official website for Ignited - the hottest Nintendo emulator for iPhone and
   iPad.
-cover: .gitbook/assets/cover.png
+cover: broken-reference
 coverY: 0
 layout: landing
 ---
