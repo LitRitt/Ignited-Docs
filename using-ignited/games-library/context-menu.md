@@ -1,3 +1,7 @@
+---
+description: Manage games by tapping and holding their artwork.
+---
+
 # 📄 Context Menu
 
 The context menu is accessed by tapping and holding on a game in your library, and has many options for managing your games.
