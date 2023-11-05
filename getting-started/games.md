@@ -14,19 +14,19 @@ You can add games to your library by tapping '+' beside the settings gear icon i
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/import-add" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/library-import-button" alt=""><figcaption><p>Import Button</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/library-import" alt=""><figcaption><p>Import Options</p></figcaption></figure>
 
 </div>
 
 ### Files Import
 
-<figure><img src="../.gitbook/assets/import-files" alt=""><figcaption></figcaption></figure>
-
 The Files option allows you to import games using the built in Files app. You can select multiple games at once. Files can remain compressed `.zip` files or can be uncompressed in one of the [supported file formats](games.md#supported-file-formats).
 
 ### iTunes Import
-
-<figure><img src="../.gitbook/assets/import-itunes" alt=""><figcaption></figcaption></figure>
 
 The iTunes option allows you to import games added via iTunes or Finder. Game files can also be manually placed in the `On My Device -> Ignited` folder and they will be imported with this option as well.
 
