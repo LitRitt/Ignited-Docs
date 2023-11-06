@@ -4,11 +4,9 @@ description: Game files and how to import them.
 
 # 🕹 Games
 
-Games for Ignited are found in the form of ROMs, which are files that contain all the data found on a real game cartridge. The emulator cores within Ignited use these ROM files to play games.
+Games for Ignited are found in the form of ROMs, which are files that contain all the data found on a real game cartridge. The emulator cores within Ignited use these ROMs to play games. ROMs are not supplied by Ignited, and I cannot help you [find](https://vimm.net/vault) them.
 
-\***ROM files are not supplied by Ignited, and I cannot help you find them**[**!**](https://vimm.net/vault)
-
-## How to Import Games
+## <mark style="color:orange;">How to Import Games</mark>
 
 You can add games to your library by tapping '+' beside the settings gear icon in the top left and choosing to import from either Files or iTunes.
 
@@ -22,15 +20,15 @@ You can add games to your library by tapping '+' beside the settings gear icon i
 
 </div>
 
-### Files Import
+### <mark style="color:yellow;">Files Import</mark>
 
 The Files option allows you to import games using the built in Files app. You can select multiple games at once. Files can remain compressed `.zip` files or can be uncompressed in one of the [supported file formats](games.md#supported-file-formats).
 
-### iTunes Import
+### <mark style="color:yellow;">iTunes Import</mark>
 
 The iTunes option allows you to import games added via iTunes or Finder. Game files can also be manually placed in the `On My Device -> Ignited` folder and they will be imported with this option as well.
 
-## **Supported File Formats**
+## <mark style="color:orange;">**Supported File Formats**</mark>
 
 | System           | Accepted Formats      |
 | ---------------- | --------------------- |
