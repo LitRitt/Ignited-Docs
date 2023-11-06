@@ -28,7 +28,7 @@ This guide will show you how to install Ignited and use its many features. Check
 [release-notes.md](release-notes.md)
 {% endcontent-ref %}
 
-## Getting Started
+## <mark style="color:orange;">Getting Started</mark>
 
 {% content-ref url="getting-started/installation.md" %}
 [installation.md](getting-started/installation.md)
@@ -38,7 +38,7 @@ This guide will show you how to install Ignited and use its many features. Check
 [games.md](getting-started/games.md)
 {% endcontent-ref %}
 
-## Using Ignited
+## <mark style="color:orange;">Using Ignited</mark>
 
 {% content-ref url="using-ignited/games-library/" %}
 [games-library](using-ignited/games-library/)
@@ -52,7 +52,7 @@ This guide will show you how to install Ignited and use its many features. Check
 [pause-menu](using-ignited/pause-menu/)
 {% endcontent-ref %}
 
-## Help
+## <mark style="color:orange;">Help</mark>
 
 {% content-ref url="help/faq.md" %}
 [faq.md](help/faq.md)
