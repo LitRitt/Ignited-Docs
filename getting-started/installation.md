@@ -11,7 +11,7 @@ The easiest method is over-the-air (OTA) installation, which is offered as a ben
 1. Become a patron on [Patreon](https://www.patreon.com/litritt) OR become a subscriber on [Discord](https://discord.gg/qEtKFJt5dR)
 2. Submit your device UDID following the instructions in the welcome message
 3. Wait patiently for 1-3 days until Apple finishes registering your device
-4. Use [this link](https://itms-services/?action=download-manifest\&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.6.1/manifest.plist) to install Ignited
+4. Use [this link](https://ota.ignitedemulator.com) to install Ignited
 
 ## <mark style="color:orange;">AltStore Method</mark>
 
