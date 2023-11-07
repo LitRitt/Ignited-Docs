@@ -17,11 +17,7 @@ layout:
 
 # 🔥 Ignited Docs
 
-This guide will show you how to install Ignited and use its many features. Check out [#getting-started](./#getting-started "mention") below to install Ignited and start playing games, [#using-ignited](./#using-ignited "mention") to learn how to use Ignited and use/customize its features, or [#help](./#help "mention") for other useful pages.
-
-{% content-ref url="release-notes.md" %}
-[release-notes.md](release-notes.md)
-{% endcontent-ref %}
+This guide will show you how to install Ignited and use its many features. Check out [#getting-started](./#getting-started "mention") to install Ignited and start playing games, [#using-ignited](./#using-ignited "mention") to learn how to use and customize its features, or [#help](./#help "mention") for other useful pages.
 
 ## <mark style="color:orange;">Getting Started</mark>
 
