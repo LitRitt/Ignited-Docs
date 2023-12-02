@@ -4,6 +4,90 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.7</mark> <a href="#161---10312023" id="161---10312023"></a>
+
+<mark style="color:orange;">12/2/2023</mark>
+
+#### Core Separation
+
+* Cores with support for multiple systems have been made into their own cores to allow for different controller skins and feature sets.
+* Gambatte core has been separated into Game Boy (GB) and Game Boy Color (GBC).
+* GPGX core has been separated into Genesis / Mega Drive (GEN), Master System (MS), and Game Gear (GG).
+
+#### User Interface
+
+* The app now fully supports a unique UI for both light mode and dark mode.
+* You can either match your device dark mode setting or choose from either mode at any time.
+* All custom assets have been replaced with SF Symbols for style consistency
+
+#### Games Library
+
+* New menu in the top right to access convenient settings and options without navigating the settings page.
+* The import button will now become a menu to resume / play / import games once a game has been imported.
+  * Resume or quit your currently playing game.
+  * View your recently played games and choose one to play.
+  * Choose a random game to play from your library or current collection of games.
+* The bottom toolbar has been removed to free up space for your games.
+* You can now change collections by tapping the collection title in the navigation bar.
+* Unplayed games are now marked with a theme colored dot in the title, similar to updated iOS apps.
+
+#### Game Artwork
+
+* New theme system with 3 built in themes and a fully customizable custom theme.
+* New custom made default box art for all 10 systems.
+* There's now an option to force all artwork within a given collection to use the same aspect ratio, determined by the default box art.
+* A screenshot of your latest save state will now be used as a game's artwork, if available. Can be turned off via the Live Artwork option.
+* Currently playing game will be highlighted with a theme colored pause icon.
+
+#### Favorite Games
+
+* Favorite games now have a star icon displayed on the artwork.
+* The style of favorite games can be completely customized independent of the main artwork theme.
+
+#### Syncing
+
+* Added automatic conflict resolution for all syncable files
+* Whether or not a game is favorited is now synced.
+* Auto-syncing (syncing every time you return to the library) can now be disabled. The app will always perform a background sync when the app launches, and this cannot be disabled.
+* You can now manually trigger a sync from the library menu.
+
+#### Save States
+
+* Auto-Save states can now be disabled. Disabling Auto-Save states will also disable Auto-Load.
+* Enabling Auto-Load states will also enable Auto-Save states.
+
+#### Settings
+
+* Sections have been rearranged. Most used sections will now be at the top.
+* Some features have been explicitly made permanent with no option to disable them.
+* If a feature can be toggled off, doing so will now completely disable that feature ( e.g. Background Blur).
+* Many feature options have been reworked to be easier to understand and use.
+* Patrons and contributors now load from a remote source
+* Added official project links
+
+#### Pause Menu
+
+* Added new long-press actions to some pause menu items.
+  * Long press Save/Load State to quick save/load.
+  * Long press Screenshot to have a 3 second countdown before the screenshot is taken.
+  * Long press Hold Buttons to reset your currently held inputs and select new inputs to hold. Tapping Hold Buttons now toggles your saved inputs on or off if you've selected inputs to hold. _\*Inputs are currently reset when the app quits. Plan to make these persist in a future update._
+  * Long press Fast Forward to change the speed. Tap to toggle.
+
+#### Quick Settings
+
+* Added an option to open the Quick Settings menu via shaking your device
+* Added an option to replace the Quick Settings menu on controller skins with a custom input: Quick Save/Load, Screenshot, Fast Forward, or Restart.
+
+#### Device Shaking
+
+* Shake your device to return to your currently playing game from anywhere else in the app.
+* If no other "Shake to..." features are enabled, you can shake your device to pause your game.
+
+#### Bugfixes
+
+* Fixes supported controller skins being non-selectable until rotating your device to the orientation of the skin
+* Many other small fixes and changes
+
 ## <mark style="color:orange;">Ignited 1.6.1</mark> <a href="#161---10312023" id="161---10312023"></a>
 
 <mark style="color:orange;">10/31/2023</mark>
