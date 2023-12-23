@@ -4,6 +4,35 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.7.2</mark>
+
+<mark style="color:orange;">12/23/2023</mark>
+
+#### New
+
+* Adds options for opening the Pause Menu by shaking your device
+
+#### Changed
+
+* Makes the New Game, Pause, and Star icons on artwork able to be disabled
+* Makes the Pause Menu items able to be rearranged in settings
+* Makes context menu previews use auto-save states if enabled
+
+#### Fixed
+
+* Makes custom artwork background color support transparency
+* Adjusts DS artwork forced aspect ratio
+
+## <mark style="color:orange;">Ignited 1.7.1</mark>
+
+<mark style="color:orange;">12/6/2023</mark>
+
+#### Bugfixes
+
+* Fixes crash when mapping controller inputs
+* Makes custom artwork background color support transparency
+* Adds missing toggles back into artwork settings
+
 ## <mark style="color:orange;">Ignited 1.7</mark> <a href="#161---10312023" id="161---10312023"></a>
 
 <mark style="color:orange;">12/2/2023</mark>
