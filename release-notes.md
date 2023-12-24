@@ -10,13 +10,14 @@ description: The history of Ignited's development.
 
 #### New
 
+* Makes the Pause Menu items able to be rearranged in settings
 * Adds options for opening the Pause Menu by shaking your device
 
 #### Changed
 
 * Makes the New Game, Pause, and Star icons on artwork able to be disabled
-* Makes the Pause Menu items able to be rearranged in settings
 * Makes context menu previews use auto-save states if enabled
+* Updated artwork database to include Master System and Game Gear games
 
 #### Fixed
 
