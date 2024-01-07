@@ -26,7 +26,7 @@ To make changes to Ignited's [settings](../settings/), tap the gear icon on the 
 
 To [import games](../../getting-started/games.md), tap the '+' icon on the left side of the navigation bar.
 
-<figure><img src="../../.gitbook/assets/import-add" alt=""><figcaption><p>Import Button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/library-import-button" alt=""><figcaption><p>Import Button</p></figcaption></figure>
 
 ## <mark style="color:orange;">Sorting Games</mark>
 

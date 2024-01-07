@@ -12,7 +12,7 @@ You can add games to your library by tapping '+' beside the settings gear icon i
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/import-add" alt=""><figcaption><p>Import Button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/library-import-button" alt=""><figcaption><p>Import Button</p></figcaption></figure>
 
  
 
