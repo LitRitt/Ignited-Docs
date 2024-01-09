@@ -4,6 +4,48 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.1</mark>
+
+<mark style="color:orange;">1/8/2024</mark>
+
+#### New
+
+* Microphone can now be toggled on and off, and only allows microphone usage when using the melonDS core
+* Create an auto save state any time the app becomes inactive, even when immediately quitting the app from a game
+* Adds new icons by LitRitt and Kongolabongo
+
+#### Changed
+
+* Makes the Pro label fancy
+* Makes the alternate icon feature free, some icons will remain Pro only
+* Removes the Documentation link until it's more complete
+* Makes most system titles use full names instead of short names
+* Unhides the status bar feature in settings
+
+#### Fixed
+
+* Fixes patrons list after update to Patreon benefits
+* Fixes toggling the status bar showing the wrong toast notification
+* Fixes setting game preview parameters when feature is disabled
+
+## <mark style="color:orange;">Ignited 1.8</mark>
+
+<mark style="color:orange;">1/6/2024</mark>
+
+#### New
+
+* Ignited Pro
+  * Select features and options will now only be available to patrons
+* Patreon Integration
+  * You can now link your Patreon account within the app to access Ignited Pro
+
+#### Fixed
+
+* Fixes skin debugging being shown when the feature is off
+* Fixes game search results overlapping other games
+* Makes the transition from Quick Settings to Main Menu create an auto save state
+* Fixes animated artwork still animating when the feature is off
+
 ## <mark style="color:orange;">Ignited 1.7.2</mark>
 
 <mark style="color:orange;">12/23/2023</mark>
@@ -34,7 +76,7 @@ description: The history of Ignited's development.
 * Makes custom artwork background color support transparency
 * Adds missing toggles back into artwork settings
 
-## <mark style="color:orange;">Ignited 1.7</mark> <a href="#161---10312023" id="161---10312023"></a>
+## <mark style="color:orange;">Ignited 1.7</mark> <a href="#id-161---10312023" id="id-161---10312023"></a>
 
 <mark style="color:orange;">12/2/2023</mark>
 
@@ -118,7 +160,7 @@ description: The history of Ignited's development.
 * Fixes supported controller skins being non-selectable until rotating your device to the orientation of the skin
 * Many other small fixes and changes
 
-## <mark style="color:orange;">Ignited 1.6.1</mark> <a href="#161---10312023" id="161---10312023"></a>
+## <mark style="color:orange;">Ignited 1.6.1</mark> <a href="#id-161---10312023" id="id-161---10312023"></a>
 
 <mark style="color:orange;">10/31/2023</mark>
 
@@ -131,7 +173,7 @@ description: The history of Ignited's development.
 * Adds a Power User feature to copy the Google Drive refresh token
   * Allows other applications and services to access your Google Drive Ignited Sync backup files
 
-## <mark style="color:orange;">Ignited 1.6</mark> <a href="#16---10302023" id="16---10302023"></a>
+## <mark style="color:orange;">Ignited 1.6</mark> <a href="#id-16---10302023" id="id-16---10302023"></a>
 
 <mark style="color:orange;">10/30/2023</mark>
 
@@ -141,7 +183,7 @@ description: The history of Ignited's development.
 * Adds a setting to show unsupported controller skins
 * Adds an All Systems page to settings for controller skin management
 
-## <mark style="color:orange;">Ignited 1.5.6</mark> <a href="#156---10282023" id="156---10282023"></a>
+## <mark style="color:orange;">Ignited 1.5.6</mark> <a href="#id-156---10282023" id="id-156---10282023"></a>
 
 <mark style="color:orange;">10/28/2023</mark>
 
@@ -158,7 +200,7 @@ description: The history of Ignited's development.
   * The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen
 * Moves Core Settings below Features in the settings page
 
-## <mark style="color:orange;">Ignited 1.5.5</mark> <a href="#155---10272023" id="155---10272023"></a>
+## <mark style="color:orange;">Ignited 1.5.5</mark> <a href="#id-155---10272023" id="id-155---10272023"></a>
 
 <mark style="color:orange;">10/27/2023</mark>
 
@@ -172,7 +214,7 @@ description: The history of Ignited's development.
 * Fixes a bug with AirPlay not showing the correct DS screens on the external display
 * Fixes games losing audio after switching systems
 
-## <mark style="color:orange;">Ignited 1.5.4</mark> <a href="#154---10232023" id="154---10232023"></a>
+## <mark style="color:orange;">Ignited 1.5.4</mark> <a href="#id-154---10232023" id="id-154---10232023"></a>
 
 <mark style="color:orange;">10/23/2023</mark>
 
@@ -182,7 +224,7 @@ description: The history of Ignited's development.
 * Fixes a crash when selecting hold buttons
 * Fixes a crash when displaying toasts
 
-## <mark style="color:orange;">Ignited 1.5.3</mark> <a href="#153---8202023" id="153---8202023"></a>
+## <mark style="color:orange;">Ignited 1.5.3</mark> <a href="#id-153---8202023" id="id-153---8202023"></a>
 
 <mark style="color:orange;">8/20/2023</mark>
 
@@ -194,9 +236,9 @@ description: The history of Ignited's development.
 
 * Improved preset theme color selection screen
 * Updated DS default skin to new style
-* Updated SNES default skin to new style###
+* Updated SNES default skin to new style
 
-## <mark style="color:orange;">Ignited 1.5.2</mark> <a href="#152---7192023" id="152---7192023"></a>
+## <mark style="color:orange;">Ignited 1.5.2</mark> <a href="#id-152---7192023" id="id-152---7192023"></a>
 
 <mark style="color:orange;">7/19/2023</mark>
 
@@ -211,7 +253,7 @@ description: The history of Ignited's development.
 * Fixes deep links not loading auto save states in some scenarios
 * Fixes wrong description for controller deadzone option
 
-## <mark style="color:orange;">Ignited 1.5.1</mark> <a href="#151---7162023" id="151---7162023"></a>
+## <mark style="color:orange;">Ignited 1.5.1</mark> <a href="#id-151---7162023" id="id-151---7162023"></a>
 
 <mark style="color:orange;">7/16/2023</mark>
 
@@ -225,7 +267,7 @@ description: The history of Ignited's development.
 
 * Fixes launching a game via deep link not respecting the auto load save state setting
 
-## <mark style="color:orange;">Ignited 1.5</mark> <a href="#15---7132023" id="15---7132023"></a>
+## <mark style="color:orange;">Ignited 1.5</mark> <a href="#id-15---7132023" id="id-15---7132023"></a>
 
 <mark style="color:orange;">7/13/2023</mark>
 
@@ -251,7 +293,7 @@ description: The history of Ignited's development.
 * Fixes DS save states made with JIT enabled not loading when JIT is not enabled
 * Fixes crash when loading save states on iOS 17
 
-## <mark style="color:orange;">Ignited 1.4.8</mark> <a href="#148---6252023" id="148---6252023"></a>
+## <mark style="color:orange;">Ignited 1.4.8</mark> <a href="#id-148---6252023" id="id-148---6252023"></a>
 
 <mark style="color:orange;">6/25/2023</mark>
 
@@ -271,7 +313,7 @@ description: The history of Ignited's development.
 
 * Fixes game screenshots being saved to Photos as JPEG instead of PNG
 
-## <mark style="color:orange;">Ignited 1.4.7</mark> <a href="#147---6192023" id="147---6192023"></a>
+## <mark style="color:orange;">Ignited 1.4.7</mark> <a href="#id-147---6192023" id="id-147---6192023"></a>
 
 <mark style="color:orange;">6/19/2023</mark>
 
@@ -290,7 +332,7 @@ description: The history of Ignited's development.
 
 * Fixes an issue with the default GBA E2E landscape skin image
 
-## <mark style="color:orange;">Ignited 1.4.6</mark> <a href="#146---6172023" id="146---6172023"></a>
+## <mark style="color:orange;">Ignited 1.4.6</mark> <a href="#id-146---6172023" id="id-146---6172023"></a>
 
 <mark style="color:orange;">6/17/2023</mark>
 
@@ -310,7 +352,7 @@ description: The history of Ignited's development.
 
 * Fixes N64 screens going black when toggling background blur
 
-## <mark style="color:orange;">Ignited 1.4.5</mark> <a href="#145---6162023" id="145---6162023"></a>
+## <mark style="color:orange;">Ignited 1.4.5</mark> <a href="#id-145---6162023" id="id-145---6162023"></a>
 
 <mark style="color:orange;">6/16/2023</mark>
 
@@ -330,7 +372,7 @@ description: The history of Ignited's development.
 * Fixes overlapping buttons when mapping controller inputs
 * Fixes crashes on N64 when opening menu and saving state
 
-## <mark style="color:orange;">Ignited 1.4.4</mark> <a href="#144---672023" id="144---672023"></a>
+## <mark style="color:orange;">Ignited 1.4.4</mark> <a href="#id-144---672023" id="id-144---672023"></a>
 
 <mark style="color:orange;">6/7/2023</mark>
 
@@ -350,7 +392,7 @@ description: The history of Ignited's development.
 
 * Fixes artwork size setting not applying until swiping to a new page
 
-## <mark style="color:orange;">Ignited 1.4.3</mark> <a href="#143---642023" id="143---642023"></a>
+## <mark style="color:orange;">Ignited 1.4.3</mark> <a href="#id-143---642023" id="id-143---642023"></a>
 
 <mark style="color:orange;">6/4/2023</mark>
 
@@ -366,7 +408,7 @@ description: The history of Ignited's development.
 * Fixes lag when changing settings with animated artwork in the background
 * Fixes animated artwork losing transparency when downsampling
 
-## <mark style="color:orange;">Ignited 1.4.2</mark> <a href="#142---632023" id="142---632023"></a>
+## <mark style="color:orange;">Ignited 1.4.2</mark> <a href="#id-142---632023" id="id-142---632023"></a>
 
 <mark style="color:orange;">6/3/2023</mark>
 
@@ -385,7 +427,7 @@ description: The history of Ignited's development.
 * Fixes crash on iPad when resolving sync merge conflicts
 * Fixes accidentally deleting Games directory during sync in rare circumstances
 
-## <mark style="color:orange;">Ignited 1.4.1</mark> <a href="#141---5142023" id="141---5142023"></a>
+## <mark style="color:orange;">Ignited 1.4.1</mark> <a href="#id-141---5142023" id="id-141---5142023"></a>
 
 <mark style="color:orange;">5/14/2023</mark>
 
@@ -400,7 +442,7 @@ description: The history of Ignited's development.
 * Fixes incorrect checkmarks next to selected palette for sprite 1 and 2
 * Fixes preview save state being overwritten by auto save state
 
-## <mark style="color:orange;">Ignited 1.4</mark> <a href="#14---5132023" id="14---5132023"></a>
+## <mark style="color:orange;">Ignited 1.4</mark> <a href="#id-14---5132023" id="id-14---5132023"></a>
 
 <mark style="color:orange;">5/13/2023</mark>
 
@@ -427,7 +469,7 @@ description: The history of Ignited's development.
 
 * Burnt a bunch of bugs
 
-## <mark style="color:orange;">Ignited 1.3</mark> <a href="#130---4282023" id="130---4282023"></a>
+## <mark style="color:orange;">Ignited 1.3</mark> <a href="#id-130---4282023" id="id-130---4282023"></a>
 
 <mark style="color:orange;">4/28/2023</mark>
 
@@ -446,7 +488,7 @@ description: The history of Ignited's development.
 * Fixes the Resume button not working with auto-load save states disabled
 * Fixes the pause menu not fully showing in landscape with 2 rows of buttons
 
-## <mark style="color:orange;">Ignited 1.2.10</mark> <a href="#1210---4232023" id="1210---4232023"></a>
+## <mark style="color:orange;">Ignited 1.2.10</mark> <a href="#id-1210---4232023" id="id-1210---4232023"></a>
 
 <mark style="color:orange;">4/23/2023</mark>
 
@@ -466,7 +508,7 @@ description: The history of Ignited's development.
 * Adjusted settings slider labels to fit with bold system text
 * Removed unimplemented swipable page control
 
-## <mark style="color:orange;">Ignited 1.2.9</mark> <a href="#129---4182023" id="129---4182023"></a>
+## <mark style="color:orange;">Ignited 1.2.9</mark> <a href="#id-129---4182023" id="id-129---4182023"></a>
 
 <mark style="color:orange;">4/18/2023</mark>
 
@@ -480,7 +522,7 @@ description: The history of Ignited's development.
 * Fixed a crash when toggling clicky haptics
 * Removed unsupported file extensions on GPGX
 
-## <mark style="color:orange;">Ignited 1.2.8</mark> <a href="#128---4162023" id="128---4162023"></a>
+## <mark style="color:orange;">Ignited 1.2.8</mark> <a href="#id-128---4162023" id="id-128---4162023"></a>
 
 <mark style="color:orange;">4/16/2023</mark>
 
@@ -494,7 +536,7 @@ description: The history of Ignited's development.
 
 * Added remaining file extensions for all systems supported by the Genesis Plus GX core
 
-## <mark style="color:orange;">Ignited 1.2.7</mark> <a href="#127---4152023" id="127---4152023"></a>
+## <mark style="color:orange;">Ignited 1.2.7</mark> <a href="#id-127---4152023" id="id-127---4152023"></a>
 
 <mark style="color:orange;">4/15/2023</mark>
 
@@ -507,7 +549,7 @@ description: The history of Ignited's development.
 * Added confirmation popup to advanced settings
 * Game screenshots are now scaled up by 5x before being saved
 
-## <mark style="color:orange;">Ignited 1.2.6</mark> <a href="#126---4142023" id="126---4142023"></a>
+## <mark style="color:orange;">Ignited 1.2.6</mark> <a href="#id-126---4142023" id="id-126---4142023"></a>
 
 <mark style="color:orange;">4/14/2023</mark>
 
@@ -515,7 +557,7 @@ description: The history of Ignited's development.
 
 * Game Screenshots - save a screenshot of the game screen to your photos with a pause menu item or controller skin button
 
-## <mark style="color:orange;">Ignited 1.2.5</mark> <a href="#125---4122023" id="125---4122023"></a>
+## <mark style="color:orange;">Ignited 1.2.5</mark> <a href="#id-125---4122023" id="id-125---4122023"></a>
 
 <mark style="color:orange;">4/12/2023</mark>
 
@@ -527,7 +569,7 @@ description: The history of Ignited's development.
 
 * Added advanced setting to clear auto save states from every game
 
-## <mark style="color:orange;">Ignited 1.2.4</mark> <a href="#124---4112023" id="124---4112023"></a>
+## <mark style="color:orange;">Ignited 1.2.4</mark> <a href="#id-124---4112023" id="id-124---4112023"></a>
 
 <mark style="color:orange;">4/11/2023</mark>
 
@@ -537,7 +579,7 @@ description: The history of Ignited's development.
 * Removed cheats, save, load, and rewind pause menu items from DSi Home Screen
 * Removed cheats from DS Home Screen
 
-## <mark style="color:orange;">Ignited 1.2.3</mark> <a href="#123---4102023" id="123---4102023"></a>
+## <mark style="color:orange;">Ignited 1.2.3</mark> <a href="#id-123---4102023" id="id-123---4102023"></a>
 
 <mark style="color:orange;">4/10/2023</mark>
 
@@ -549,7 +591,7 @@ description: The history of Ignited's development.
 
 * Updates screen now includes dates for all versions
 
-## <mark style="color:orange;">Ignited 1.2.2</mark> <a href="#122---492023" id="122---492023"></a>
+## <mark style="color:orange;">Ignited 1.2.2</mark> <a href="#id-122---492023" id="id-122---492023"></a>
 
 <mark style="color:orange;">4/9/2023</mark>
 
@@ -562,7 +604,7 @@ description: The history of Ignited's development.
 
 * Updated OpenVGDB database
 
-## <mark style="color:orange;">Ignited 1.2.1</mark> <a href="#121---492023" id="121---492023"></a>
+## <mark style="color:orange;">Ignited 1.2.1</mark> <a href="#id-121---492023" id="id-121---492023"></a>
 
 <mark style="color:orange;">4/9/2023</mark>
 
@@ -578,7 +620,7 @@ description: The history of Ignited's development.
 
 * Fixed laggy sliders in settings that could crash the app when paused
 
-## <mark style="color:orange;">Ignited 1.2</mark> <a href="#120---482023" id="120---482023"></a>
+## <mark style="color:orange;">Ignited 1.2</mark> <a href="#id-120---482023" id="id-120---482023"></a>
 
 <mark style="color:orange;">4/8/2023</mark>
 
@@ -592,7 +634,7 @@ description: The history of Ignited's development.
 
 * Fixed controller skins losing transparency on device rotation
 
-## <mark style="color:orange;">Ignited 1.1.4</mark> <a href="#114---462023" id="114---462023"></a>
+## <mark style="color:orange;">Ignited 1.1.4</mark> <a href="#id-114---462023" id="id-114---462023"></a>
 
 <mark style="color:orange;">4/6/2023</mark>
 
@@ -609,7 +651,7 @@ description: The history of Ignited's development.
 
 * Fixed the Show with Controller settings not working on DS
 
-## <mark style="color:orange;">Ignited 1.1.3</mark> <a href="#113---452023" id="113---452023"></a>
+## <mark style="color:orange;">Ignited 1.1.3</mark> <a href="#id-113---452023" id="id-113---452023"></a>
 
 <mark style="color:orange;">4/5/2023</mark>
 
@@ -618,7 +660,7 @@ description: The history of Ignited's development.
 * Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release
 * Added slider for haptic feedback strength
 
-## <mark style="color:orange;">Ignited 1.1.2</mark> <a href="#112---422023" id="112---422023"></a>
+## <mark style="color:orange;">Ignited 1.1.2</mark> <a href="#id-112---422023" id="id-112---422023"></a>
 
 <mark style="color:orange;">4/2/2023</mark>
 
@@ -639,7 +681,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed last unthemed elements buried in settings
 
-## <mark style="color:orange;">Ignited 1.1.1</mark> <a href="#111---422023" id="111---422023"></a>
+## <mark style="color:orange;">Ignited 1.1.1</mark> <a href="#id-111---422023" id="id-111---422023"></a>
 
 <mark style="color:orange;">4/2/2023</mark>
 
@@ -647,7 +689,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Updated toast notification logic to prevent multiple toasts being shown at once
 
-## <mark style="color:orange;">Ignited 1.1</mark> <a href="#110---412023" id="110---412023"></a>
+## <mark style="color:orange;">Ignited 1.1</mark> <a href="#id-110---412023" id="id-110---412023"></a>
 
 <mark style="color:orange;">4/1/2023</mark>
 
@@ -661,7 +703,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Removed the Resume Game prompt from the game selection screen
 * Added a Restart Game pause menu button
 
-## <mark style="color:orange;">Ignited 1.0.2</mark> <a href="#102---412023" id="102---412023"></a>
+## <mark style="color:orange;">Ignited 1.0.2</mark> <a href="#id-102---412023" id="id-102---412023"></a>
 
 <mark style="color:orange;">4/1/2023</mark>
 
@@ -677,7 +719,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed some artwork bugs caused by resizing
 
-## <mark style="color:orange;">Ignited 1.0.1</mark> <a href="#101---3302023" id="101---3302023"></a>
+## <mark style="color:orange;">Ignited 1.0.1</mark> <a href="#id-101---3302023" id="id-101---3302023"></a>
 
 <mark style="color:orange;">3/30/2023</mark>
 
@@ -685,7 +727,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed link in settings
 
-## <mark style="color:orange;">Ignited 1.0</mark> <a href="#100---3302023" id="100---3302023"></a>
+## <mark style="color:orange;">Ignited 1.0</mark> <a href="#id-100---3302023" id="id-100---3302023"></a>
 
 <mark style="color:orange;">3/30/2023</mark>
 
@@ -705,7 +747,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Default speed changed to 4x
 * Removed 4x from unsafe speeds
 
-## <mark style="color:orange;">Ignited 0.7.1</mark> <a href="#071---3192023" id="071---3192023"></a>
+## <mark style="color:orange;">Ignited 0.7.1</mark> <a href="#id-071---3192023" id="id-071---3192023"></a>
 
 <mark style="color:orange;">3/19/2023</mark>
 
@@ -716,7 +758,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Reordered save state menu sections. General at the top and Quick/Auto at the bottom
 * Rebrand to from Delta Ignited to just Ignited
 
-## <mark style="color:orange;">Ignited 0.7</mark> <a href="#070---3182023" id="070---3182023"></a>
+## <mark style="color:orange;">Ignited 0.7</mark> <a href="#id-070---3182023" id="id-070---3182023"></a>
 
 <mark style="color:orange;">3/18/2023</mark>
 
@@ -736,7 +778,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fixed a bug where the user preferred DS core was changed to MelonDS every time the app started
 
-## <mark style="color:orange;">Ignited 0.6.3</mark> <a href="#063---3112023" id="063---3112023"></a>
+## <mark style="color:orange;">Ignited 0.6.3</mark> <a href="#id-063---3112023" id="id-063---3112023"></a>
 
 <mark style="color:orange;">3/11/2023</mark>
 
@@ -751,7 +793,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Game will auto-save on every fast forward activation
 * Number of auto-saves increased from 2 to 4
 
-## <mark style="color:orange;">Ignited 0.6.2</mark> <a href="#062---352023" id="062---352023"></a>
+## <mark style="color:orange;">Ignited 0.6.2</mark> <a href="#id-062---352023" id="id-062---352023"></a>
 
 <mark style="color:orange;">3/5/2023</mark>
 
@@ -763,7 +805,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Fix controller skin previews not showing for standard size iPhones
 
-## <mark style="color:orange;">Ignited 0.6.1</mark> <a href="#061---342023" id="061---342023"></a>
+## <mark style="color:orange;">Ignited 0.6.1</mark> <a href="#id-061---342023" id="id-061---342023"></a>
 
 <mark style="color:orange;">3/4/2023</mark>
 
@@ -772,7 +814,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Change formatting of updates screen
 * Move updates to its own section in settings
 
-## <mark style="color:orange;">Ignited 0.6</mark> <a href="#060---332023" id="060---332023"></a>
+## <mark style="color:orange;">Ignited 0.6</mark> <a href="#id-060---332023" id="id-060---332023"></a>
 
 <mark style="color:orange;">3/3/2023</mark>
 
@@ -780,7 +822,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Add in-app updates changelog
 
-## <mark style="color:orange;">Ignited 0.5.3</mark> <a href="#053---332023" id="053---332023"></a>
+## <mark style="color:orange;">Ignited 0.5.3</mark> <a href="#id-053---332023" id="id-053---332023"></a>
 
 <mark style="color:orange;">3/3/2023</mark>
 
@@ -789,7 +831,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Update local multiplayer controller settings logic
 * Remove rewind feature due to crashes
 
-## <mark style="color:orange;">Ignited 0.5.2</mark> <a href="#052---2262023" id="052---2262023"></a>
+## <mark style="color:orange;">Ignited 0.5.2</mark> <a href="#id-052---2262023" id="id-052---2262023"></a>
 
 <mark style="color:orange;">2/26/2023</mark>
 
@@ -797,7 +839,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Added new GBC skin with matching style and previews
 
-## <mark style="color:orange;">Ignited 0.5.1</mark> <a href="#051---2252023" id="051---2252023"></a>
+## <mark style="color:orange;">Ignited 0.5.1</mark> <a href="#id-051---2252023" id="id-051---2252023"></a>
 
 <mark style="color:orange;">2/25/2023</mark>
 
@@ -805,7 +847,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Implemented new preview feature in default GBA skin
 
-## <mark style="color:orange;">Ignited 0.5</mark> <a href="#050---2252023" id="050---2252023"></a>
+## <mark style="color:orange;">Ignited 0.5</mark> <a href="#id-050---2252023" id="id-050---2252023"></a>
 
 <mark style="color:orange;">2/25/2023</mark>
 
@@ -813,7 +855,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Controller skin previews in settings
 
-## <mark style="color:orange;">Ignited 0.4.1</mark> <a href="#041---2252023" id="041---2252023"></a>
+## <mark style="color:orange;">Ignited 0.4.1</mark> <a href="#id-041---2252023" id="id-041---2252023"></a>
 
 <mark style="color:orange;">2/25/2023</mark>
 
@@ -823,7 +865,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Fixed crashes on iPad related to popups
 * Fixed a crash in P2-P4 controller settings pages
 
-## <mark style="color:orange;">Ignited 0.4</mark> <a href="#040---2242023" id="040---2242023"></a>
+## <mark style="color:orange;">Ignited 0.4</mark> <a href="#id-040---2242023" id="id-040---2242023"></a>
 
 <mark style="color:orange;">2/24/2023</mark>
 
@@ -831,7 +873,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Custom fast forward speed setting and toggle
 
-## <mark style="color:orange;">Ignited 0.3</mark> <a href="#030---2232023" id="030---2232023"></a>
+## <mark style="color:orange;">Ignited 0.3</mark> <a href="#id-030---2232023" id="id-030---2232023"></a>
 
 <mark style="color:orange;">2/23/2023</mark>
 
@@ -844,7 +886,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 * Ensured all settings sections have a descriptive footer
 
-## <mark style="color:orange;">Ignited 0.2.1</mark> <a href="#021---2212023" id="021---2212023"></a>
+## <mark style="color:orange;">Ignited 0.2.1</mark> <a href="#id-021---2212023" id="id-021---2212023"></a>
 
 <mark style="color:orange;">2/21/2023</mark>
 
@@ -858,7 +900,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Remove all beta checks
 * Contributors page updated
 
-## <mark style="color:orange;">Ignited 0.2</mark> <a href="#020---2202023" id="020---2202023"></a>
+## <mark style="color:orange;">Ignited 0.2</mark> <a href="#id-020---2202023" id="id-020---2202023"></a>
 
 <mark style="color:orange;">2/20/2023</mark>
 
@@ -873,7 +915,7 @@ This update uses a new bundleID with my domain. It will never change again after
 * Contributors page updated
 * Update links in settings
 
-## <mark style="color:orange;">Ignited 0.1</mark> <a href="#010---2192023" id="010---2192023"></a>
+## <mark style="color:orange;">Ignited 0.1</mark> <a href="#id-010---2192023" id="id-010---2192023"></a>
 
 <mark style="color:orange;">2/19/2023</mark>
 
