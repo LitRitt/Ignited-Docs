@@ -4,6 +4,22 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.2</mark>
+
+<mark style="color:orange;">1/10/2024</mark>
+
+#### New
+
+* SNES Invalid VRAM Access
+  * Allows text and other sprites to render properly in some emulator-only games
+  * Applied per game using the game's context menu
+
+#### Changed
+
+* N64 Graphics replaced with OpenGLES 3 toggle
+  * Applied per game using the game's context menu
+* Toast notification style updated and the code flow for toasts has been unified/simplified
+
 ## <mark style="color:orange;">Ignited 1.8.1</mark>
 
 <mark style="color:orange;">1/8/2024</mark>
