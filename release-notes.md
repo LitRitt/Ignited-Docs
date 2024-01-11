@@ -4,6 +4,16 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.3</mark>
+
+<mark style="color:orange;">1/11/2024</mark>
+
+#### New
+
+* Added a check for N64 games to disallow mismatched OpenGLES versions
+* Added a view in settings to see all games with OpenGLES 3 enabled and remove them
+* Added a view in settings to see all games with Invalid VRAM Access enabled and remove them
+
 ## <mark style="color:orange;">Ignited 1.8.2</mark>
 
 <mark style="color:orange;">1/10/2024</mark>
