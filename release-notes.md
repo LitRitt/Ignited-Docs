@@ -4,6 +4,36 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.4</mark>
+
+<mark style="color:orange;">1/13/2024</mark>
+
+#### New
+
+* Battery Safety Feature
+  * Allows users to set low and critical battery level
+  * At low battery (5-10%) a popup is shown and auto save states start being created periodically
+  * At critical battery (2-5%) the currently playing game will save and close, and games cannot be launched until the device is charged
+* N64 Overscan Feature
+  * Allows users to remove the black bars surrounding N64 games
+  * Overscan settings can be edited using the new pause menu button while playing N64 games
+  * Overscan settings are backed up with Ignited Sync
+* Adds "Learn More..." links to guide users to relevant documentation
+  * Added to library when no games are present
+  * Added to MelonDS core BIOS section footers
+  * Added to controller skins section footer
+
+#### Changed
+
+* Updated Firé Ball icon
+* Changes Live Artwork feature to be disabled by default
+
+#### Fixed
+
+* Fixes visual bugs on MelonDS core settings screen
+* Fixes crashes when presenting alerts
+* Fixes library play menu not updating when deleting a game
+
 ## <mark style="color:orange;">Ignited 1.8.3</mark>
 
 <mark style="color:orange;">1/11/2024</mark>
