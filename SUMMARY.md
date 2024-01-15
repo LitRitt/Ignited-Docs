@@ -10,7 +10,7 @@
 
 ## Using Ignited
 
-* [🏠 Games Library](using-ignited/games-library/README.md)
+* [🏠 Library](using-ignited/games-library/README.md)
   * [📄 Context Menu](using-ignited/games-library/context-menu.md)
 * [⚙ Settings](using-ignited/settings/README.md)
   * [🔃 Ignited Sync](using-ignited/settings/ignited-sync.md)

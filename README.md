@@ -1,7 +1,7 @@
 ---
 description: >-
-  Official documentation for Ignited, the hottest retro Nintendo/Sega emulator
-  for iPhone and iPad.
+  Official documentation for the Ignited Emulator, a multi-system retro gaming
+  app for iPhones and iPads.
 layout:
   title:
     visible: true
