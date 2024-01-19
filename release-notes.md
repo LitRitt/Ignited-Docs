@@ -4,6 +4,24 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.5</mark>
+
+<mark style="color:orange;">1/19/2024</mark>
+
+#### Changed
+
+* Shrinks icon file sizes
+* Makes the background blur show when a controller is connected
+* Changes "View patreon" button to "View membership" when signed into Patreon
+* Updates Premium members page to load dynamically from PatreonAPI
+
+#### Fixed
+
+* Fixes emulation not pausing when app is in the background
+* Fixes emulation not pausing when the screen is locked
+* Fixes issue causing Harmony to skip seeding database
+* Fixes game artwork losing shadows when toggling VRAM and OpenGLES options
+
 ## <mark style="color:orange;">Ignited 1.8.4</mark>
 
 <mark style="color:orange;">1/13/2024</mark>
