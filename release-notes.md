@@ -4,6 +4,45 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.6</mark>
+
+<mark style="color:orange;">1/29/2024</mark>
+
+#### New
+
+* New icons by LitRitt
+  * Super Ignited Bros (Smash Bros)
+  * Red Plumber (Mario)
+  * Green Plumber (Luigi)
+  * Stomp Bait (Goomba)
+  * Sparky (Pikachu)
+  * Puffball (Kirby)
+  * Sword That Seals (Master Sword)
+  * Sword That Seals Alt (Master Sword)
+  * Sword That Ignites (Master Sword)
+  * Sword That Ignites Alt (Master Sword)
+* New icons by Kongolabongo
+  * Barrel of Kong (DK)
+  * Barrel of Flame (DK)
+* New icons by Scoot the Rizzler
+  * Master Sword
+  * Hylian Shield
+  * Many Marios
+* Adds beta label for features/options
+* Adds 1.5x fast forward speed option for pause menu presets
+
+#### Changed
+
+* Raises minimum iOS version to 16
+* Updates some icons and shrinks file sizes
+* Icons are now sorted into categories
+
+#### Fixed
+
+* Fixes some incorrect feature reset defaults
+* Fixes some grammar and spelling in settings
+* Fixes showing icon images after updating deployment target version
+
 ## <mark style="color:orange;">Ignited 1.8.5</mark>
 
 <mark style="color:orange;">1/19/2024</mark>
