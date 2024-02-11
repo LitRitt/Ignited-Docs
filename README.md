@@ -52,7 +52,3 @@ This guide will show you how to install Ignited and use its many features. Check
 {% content-ref url="help/bios-files.md" %}
 [bios-files.md](help/bios-files.md)
 {% endcontent-ref %}
-
-{% content-ref url="help/glossary.md" %}
-[glossary.md](help/glossary.md)
-{% endcontent-ref %}
