@@ -4,6 +4,36 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.8.7</mark>
+
+<mark style="color:orange;">2/10/2024</mark>
+
+#### New
+
+* Recombines GB and GBC cores into a single GBC core
+  * Skins for GBC can now be used on GB games
+* Adds an option to mute game audio during fast forward
+* Adds toggles for whether certain pause menu options should close the menu after use
+* Adds a threshold option to determine whether artwork should use the forced aspect ratio option
+* Adds a toggle to disable limits imposed during critical battery level
+
+#### Changed
+
+* Background blur is no longer a Pro feature
+  * Tint intensity and blur strength are now Pro options
+* Rewind is no longer a Pro feature
+  * Free users are limited to 4 rewind states at 15 second intervals
+* The first custom Game Boy palette is now available to free users
+* Quick settings button replacement is no longer a Pro feature
+* Animated artwork is no longer a Pro feature
+* Touch overlay style is now a Pro option
+* Touch sound is no longer a Pro feature
+  * Sound selection is now a Pro option
+
+#### Fixed
+
+* Fixes default favorites style not highlighting the artwork border
+
 ## <mark style="color:orange;">Ignited 1.8.6</mark>
 
 <mark style="color:orange;">1/29/2024</mark>
