@@ -4,9 +4,9 @@ description: Game files and how to import them.
 
 # 🕹 Games
 
-Games for Ignited are found in the form of ROMs, which are files that contain all the data found on a real game cartridge. The emulator cores within Ignited use these ROMs to play games. ROMs are not supplied by Ignited, and I cannot help you find them.
+Games for Ignited are found in the form of ROMs, which are files that contain all the data found on a real game cartridge. The emulator cores within Ignited use these ROMs to play games.
 
-## <mark style="color:orange;">How to Import Games</mark>
+_**\*ROMs are not supplied by Ignited, and I cannot help you find them.**_
 
 You can add games to your library by tapping '+' beside the settings gear icon in the top left and choosing to import from either Files or iTunes.
 
