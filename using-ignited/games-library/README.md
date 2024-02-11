@@ -2,7 +2,7 @@
 description: The main screen of the app, home to your games.
 ---
 
-# 🏠 Games Library
+# 🏠 Library
 
 The games library is where you can find your games after they've been imported. From here you can play and manage your games and access settings.
 
@@ -12,7 +12,7 @@ To play your games, tap on the game's artwork. To manage your game and see more 
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/library-game-select" alt=""><figcaption><p>Tap to play a game</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Tap to play a game</p></figcaption></figure>
 
 </div>
 
@@ -20,13 +20,13 @@ To play your games, tap on the game's artwork. To manage your game and see more 
 
 To make changes to Ignited's [settings](../settings/), tap the gear icon on the left side of the navigation bar.
 
-<figure><img src="../../.gitbook/assets/library-settings" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Settings Button</p></figcaption></figure>
 
 ## <mark style="color:orange;">Importing Games</mark>
 
 To [import games](../../getting-started/games.md), tap the '+' icon on the left side of the navigation bar.
 
-<figure><img src="../../.gitbook/assets/library-import-button" alt=""><figcaption><p>Import Button</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Import Button</p></figcaption></figure>
 
 ## <mark style="color:orange;">Sorting Games</mark>
 
@@ -34,11 +34,11 @@ To change how your games are sorted, tap the list icon on the right side of the 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/library-sorting-button" alt=""><figcaption><p>Sort Button</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Sort Button</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/library-sorting" alt=""><figcaption><p>Sort Options</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Sort Options</p></figcaption></figure>
 
 </div>
 
@@ -60,24 +60,24 @@ To change the size of the game artwork, tap the rectangular icon on the right si
 
 <div>
 
-<figure><img src="../../.gitbook/assets/library-size-button" alt=""><figcaption><p>Size Button</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Size Button</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/library-size" alt=""><figcaption><p>Size Options</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Size Options</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/library-size-small" alt=""><figcaption><p>Small Size</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Small Size</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/library-size-medium" alt=""><figcaption><p>Medium Size</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Medium Size</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/library-size-large" alt=""><figcaption><p>Large Size</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Large Size</p></figcaption></figure>
 
 </div>

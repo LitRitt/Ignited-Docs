@@ -6,7 +6,7 @@ description: Manage games by tapping and holding their artwork.
 
 The context menu is accessed by tapping and holding on a game in your library, and has many options for managing your games.
 
-<figure><img src="../../.gitbook/assets/library-context-menu" alt=""><figcaption><p>Context Menu</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Context Menu</p></figcaption></figure>
 
 ## <mark style="color:orange;">Add/Remove Favorite</mark>
 
