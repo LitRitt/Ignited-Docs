@@ -4,6 +4,90 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.9</mark>
+
+<mark style="color:orange;">3/9/2024</mark>
+
+### Standard Skins
+
+New software-rendered skins that can be customized by users without any graphic design or JSON editing.
+
+#### Style and Color
+
+* Style - Switch between Filled, Outline (PRO), and Filled + Outline (PRO) visual styles for inputs.
+* Color - Switch between Auto (black with light mode, white with dark mode), White, Black, Theme, Battery (PRO), and Custom (PRO) coloring for inputs.
+* Custom Color - Choose a primary color for the Custom input color.
+* Custom Secondary Color - Choose a secondary color for the custom input color.
+* Translucent - Choose whether the skin should be opaque or use the skin opacity setting.
+* Shadow - Choose whether to draw shadows underneath inputs.
+* Shadow Opacity - Change the opacity of shadows for inputs.
+
+#### Game Screens
+
+* Screen Style - Choose whether game screens should appear within a floating rounded window like other elements on iOS, or should be flat.
+* Fullscreen Landscape - Choose whether the game screens should fill the full width of the device in landscape or be positioned between the inputs to avoid overlap.
+* DS Top Screen Size - Change how much of the vertical space available the top screen should use.
+* Notch/Island Unsafe Area - Change how much space should be avoided in order to keep screens from being drawn under an iPhone's notch or Dynamic Island.
+
+#### Inputs and Layout
+
+* Custom Button 1/2 (PRO) - Choose a custom input to use for an extra input on the skin. N64 not supported.
+* DS Screen Swap (PRO) - Choose to replace Custom Button 2 with an input to swap the DS screens.
+* Directional Input - Choose between a D-Pad or Thumbstick for directional input. N64 not supported.
+* A,B,X,Y Layout - Choose between Nintendo, Xbox, Swap AB, and Swap XY layouts for face inputs. N64 and Sega systems not supported.
+* N64 Face Layout - Choose between different N64 face button layouts for better comfort.
+* N64 Shoulder Layout - Choose to swap the Z input with either the L or R inputs.
+* Genesis Face Layout - Choose between the 3-button and 6-button layouts.
+* Extended Edges - Change how much the touch area should extend beyond the input's visual representation.
+* SplitView Portrait/Landscape Size - Change how much of the vertical screen space the SplitView skin should occupy in portrait/landscape.
+
+### Background Blur
+
+* Style (PRO) - Choose between System, Thin, Ultra Thin, Thick, and Regular blur styles.
+* Brightness - Choose between Auto, Light, and Dark brightnesses. Auto will adjust to the device dark mode setting.
+* Tint Color - Choose between None, Theme, Battery (PRO), and Custom (PRO) tint colors.
+* Custom Tint Color (PRO) - Choose a custom color to use with the Custom tint coloring.
+* Tint Opacity - Change the opacity of the tint color.
+* Maintain Aspect Ratio - Choose whether to keep the aspect ratio of the game screen when fitting it to the background or to stretch it so the entire image fits in the background.
+
+### AirPlay
+
+AirPlay settings have been reorganized into a new feature section available in the main Settings page.
+
+#### Device
+
+* Disable Main Screen - Choose whether or not to disable the main game screen on the device and cover it with an AirPlay view to indicate that it is being shown on the external display.
+* DS Bottom Screen Only - Choose whether or not to only show the bottom DS screen when AirPlaying with a controller connected.
+
+#### External Display
+
+* Background Blur - Choose whether or not to show the background blur on the external display.
+* DS Top Screen Only - Choose whether or not to only show the top DS screen on the external display.
+* DS Screen Layout - Choose between a vertical or horizontal screen layout when Top Screen Only is disabled.
+
+#### AirPlay Skins
+
+Choose a skin to customize the external display screen.
+
+* Useful for creating game-specific borders for games.
+* Does not affect the device skin.
+
+### New
+
+* Added VGMaps - The Video Game Atlas link to resources section in Settings.
+* Added battery tint coloring to touch overlay color options.
+* Added App Presets to change multiple visual settings at once.
+
+### Changed
+
+* Quick Settings now links directly to the feature settings pages instead of showing custom views for each setting.
+* DS landscape screen layout with controller connected now respects the unsafe area setting.
+
+### Fixed
+
+* Fixes location of D-Pad down-right touch overlay.
+* Fixes long delay between importing files and receiving the confirmation popup.
+
 ## <mark style="color:orange;">Ignited 1.8.7</mark>
 
 <mark style="color:orange;">2/10/2024</mark>

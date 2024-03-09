@@ -29,8 +29,8 @@ AltStore is a completely free method, but requires a computer and resigning the 
 1. Download [AltServer](https://altstore.io) for Mac or PC
 2. Connect your iPhone or iPad to your computer via Lightning or USB-C cable
 3. Follow [these instructions](https://faq.altstore.io/) for installing AltStore
-4. Use [this link](altstore://install?url=https://cdn.ignitedemulator.com/versions/1.8.7/Ignited.ipa) to install Ignited
+4. Use [this link](altstore://install?url=https://cdn.ignitedemulator.com/versions/1.9/Ignited.ipa) to install Ignited
 
 ## <mark style="color:orange;">Other Signing Methods</mark>
 
-1. Download the [IPA](https://cdn.ignitedemulator.com/versions/1.8.7/Ignited.ipa) file to install using another method
+1. Download the [IPA](https://cdn.ignitedemulator.com/versions/1.9/Ignited.ipa) file to install using another method

@@ -6,13 +6,13 @@
 ## Getting Started
 
 * [📲 Installation](getting-started/installation.md)
-* [🕹 Games](getting-started/games.md)
+* [🕹️ Games](getting-started/games.md)
 
 ## Using Ignited
 
 * [🏠 Library](using-ignited/games-library/README.md)
   * [📄 Context Menu](using-ignited/games-library/context-menu.md)
-* [⚙ Settings](using-ignited/settings/README.md)
+* [⚙️ Settings](using-ignited/settings/README.md)
   * [🔃 Ignited Sync](using-ignited/settings/ignited-sync.md)
   * [🔩 Features](using-ignited/settings/features/README.md)
     * [Gameplay](using-ignited/settings/features/gameplay.md)
@@ -27,7 +27,7 @@
     * [Nintendo DS](using-ignited/settings/cores/nintendo-ds.md)
   * [🎨 Controller Skins](using-ignited/settings/controller-skins.md)
   * [🎮 Controllers](using-ignited/settings/controllers.md)
-* [⏸ Pause Menu](using-ignited/pause-menu/README.md)
+* [⏸️ Pause Menu](using-ignited/pause-menu/README.md)
   * [💾 Save States](using-ignited/pause-menu/save-states.md)
   * [⚡ Cheat Codes](using-ignited/pause-menu/cheat-codes.md)
   * [🔘 Hold Buttons](using-ignited/pause-menu/hold-buttons.md)
@@ -37,5 +37,5 @@
 ## Help
 
 * [🆘 FAQ](help/faq.md)
-* [🗃 BIOS Files](help/bios-files.md)
+* [🗃️ BIOS Files](help/bios-files.md)
 * [🔏 Privacy Policy](help/privacy-policy.md)
