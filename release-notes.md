@@ -4,6 +4,70 @@ description: The history of Ignited's development.
 
 # 📔 Release Notes
 
+## <mark style="color:orange;">Ignited 1.10</mark>
+
+<mark style="color:orange;">3/27/2024</mark>
+
+#### New Cores
+
+Added GBA support for mGBA with the following settings:
+
+* Frameskip
+* Light Level
+* Gyroscope Sensitivity
+  * Full gyroscope support for WarioWare Twisted
+* Accelerometer Sensitivity
+  * Full accelerometer support for Yoshi Topsy-Turvy and other games
+* Rumble Intensity
+  * Full rumble support for Drill Dozer, WarioWare Twisted, and GBP-enhanced games
+* Game Boy Player
+* Idle Loop Removal
+
+Added GBC support for mGBA with the following settings:
+
+* Frameskip
+* Accelerometer Sensitivity
+  * Full accelerometer support for Kirby Tilt'n'Tumble and other games
+* Rumble Intensity
+  * Full rumble support for games that utilize the Rumble Pak
+* Super Game Boy Borders
+  * Full support for SGB-enhanced games
+* Game Boy Model Selection
+* Palette Lookup
+
+#### Standard Skins
+
+* Added 2 new game screen modes
+  * Flat Rounded
+  * Floating Non-Rounded
+* Added an option for landscape screen size
+  * Fit Inputs
+  * Fit Device
+  * Fill Device
+* Added 2 new DS layouts
+  * Comfortable
+  * Compact
+  * Buttonless
+* Added an option to move the menu inputs to the top of the layout
+* Adjusted button areas for various devices and systems
+* Adjusted screen position in portrait when custom buttons are disabled
+* Fixed Auto skin color with Background Blur disabled
+
+#### New
+
+* Added an option to disable diagonal D-Pad inputs on skins
+* Features and options will now be hidden when they have no effect
+
+#### Changed
+
+* Moved core settings to the top of Quick Settings
+* Touch Overlay style is now a free option
+* Touch Audio sound is now a free feature
+
+#### Fixed
+
+* Fixed background blur not updating when first connecting an external display
+
 ## <mark style="color:orange;">Ignited 1.9</mark>
 
 <mark style="color:orange;">3/9/2024</mark>
