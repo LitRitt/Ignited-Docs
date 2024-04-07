@@ -52,3 +52,9 @@ This guide will show you how to install Ignited and use its many features. Check
 {% content-ref url="help/bios-files.md" %}
 [bios-files.md](help/bios-files.md)
 {% endcontent-ref %}
+
+## <mark style="color:orange;">Support and Donate</mark>
+
+{% embed url="https://patreon.com/litritt" %}
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/litritt)
