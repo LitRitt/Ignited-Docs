@@ -38,4 +38,5 @@
 
 * [🆘 FAQ](help/faq.md)
 * [🗃️ BIOS Files](help/bios-files.md)
-* [🔏 Privacy Policy](help/privacy-policy.md)
+* [🔏 Privacy Policy](help/privacy.md)
+* [Page](help/page.md)
