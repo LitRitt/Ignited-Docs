@@ -2,7 +2,7 @@
 description: Answers to common questions users have when using Ignited.
 ---
 
-# 🆘 FAQ
+# ❔ FAQ
 
 ## <mark style="color:orange;">Q: Can I transfer my games and saves from Delta?</mark>
 

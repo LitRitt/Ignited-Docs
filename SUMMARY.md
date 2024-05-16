@@ -36,6 +36,7 @@
 
 ## Help
 
-* [🆘 FAQ](help/faq.md)
+* [❔ FAQ](help/faq.md)
 * [🗃️ BIOS Files](help/bios-files.md)
 * [🔏 Privacy Policy](help/privacy.md)
+* [🆘 Support](help/support.md)
