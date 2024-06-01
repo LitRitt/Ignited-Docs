@@ -16,7 +16,7 @@ A: The systems currently supported by Ignited are:
 * Super Nintendo (Snes9x)
 * Nintendo 64 (mupen64plus)
 * Game Boy Color (Gambatte)
-* Game Boy Advance (visualboyadvance-m)
+* Game Boy Advance (mGBA/visualboyadvance-m)
 * Nintendo DS (melonDS/DeSmuME)
 * Genesis/Mega Drive (Genesis Plus GX)
 * Master System (Genesis Plus GX)
